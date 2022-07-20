@@ -1,0 +1,3 @@
+This i test string.
+It aims to show whether there
+are any limits to using write.
